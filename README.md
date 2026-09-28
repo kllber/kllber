@@ -3,8 +3,7 @@
 <h1 align="center">Hi 👋 我是 kllber</h1>
 
 <p align="center">
-  <b>技术萌新</b> · 最近在用 AI 智能体辅助我做点小东西<br />
-  <i>A tech newbie, lately building small things with the help of AI agents</i>
+  <img src="assets/typing.gif" width="557" alt="typing" />
 </p>
 
 ---
