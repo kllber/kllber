@@ -53,7 +53,7 @@ runtime needed. Bilingual UI with light / dark themes and a built-in illustrated
 </p>
 
 <a href="https://github.com/kllber/jianpack/releases/latest">👉 下载最新版 · Download</a>
-
+________________________________________________________________________________________
 ### [AI Vault · 密钥金库](https://github.com/kllber/ai-vault)
 
 一个**本地优先、端到端加密**的 AI API 密钥管理工具。把散落在各家的大模型 API Key 收进一个加密的
