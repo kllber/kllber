@@ -54,6 +54,28 @@ runtime needed. Bilingual UI with light / dark themes and a built-in illustrated
 
 <a href="https://github.com/kllber/jianpack/releases/latest">👉 下载最新版 · Download</a>
 
+### [AI Vault · 密钥金库](https://github.com/kllber/ai-vault)
+
+一个**本地优先、端到端加密**的 AI API 密钥管理工具。把散落在各家的大模型 API Key 收进一个加密的
+`.aivault` 文件里统一管理——**哪个项目在用哪把 key、哪把还能用、余额还剩多少**，一目了然。
+支持余额 / 花费查询、有效性检测、余额趋势；桌面版内置本地服务，手机浏览器连同一 WiFi 就能用
+（配合 Tailscale 还能跨网络、异地访问）。Windows 10 / 11 免安装便携版，**无需任何运行库**。
+
+*AI Vault is a local-first, end-to-end encrypted manager for AI API keys. Keys live in a single
+encrypted `.aivault` file, and you can see which project uses which key, whether it still works, and the
+remaining balance. It supports balance/spend lookups, validity checks and balance trends, with a
+built-in local service so a phone browser can use it over LAN (or remotely via Tailscale). A portable,
+dependency-free build for Windows 10/11.*
+
+<p>
+  <img src="https://img.shields.io/badge/version-1.0.0-2ea44f?style=flat-square" alt="version" />
+  <img src="https://img.shields.io/badge/license-Apache--2.0-blue?style=flat-square" alt="license" />
+  <img src="https://img.shields.io/badge/platform-Windows%2010%20%7C%2011-0078D6?style=flat-square" alt="platform" />
+  <img src="https://img.shields.io/badge/electron-44-47848F?style=flat-square" alt="electron" />
+</p>
+
+<a href="https://github.com/kllber/ai-vault/releases/latest">👉 下载最新版 · Download</a>
+
 *其它的想法还在慢慢孵化中，做好了会陆续搬上来。*
 *More ideas are still incubating — I'll put them up here as they come to life.*
 
